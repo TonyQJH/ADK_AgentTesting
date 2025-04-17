@@ -13,15 +13,9 @@ A collection of examples demonstrating how to build and test agents using the Go
 - **test_agent/**  
   Collection of scripts to validate and benchmark agent behaviors.
 
-## Get Started
-
-```bash
-pip install google-adk
-```
-
 ## Prerequisites
 
-- Python 3.8+
+- Python 3.11
 
 ## Setup
 
@@ -35,28 +29,28 @@ pip install google-adk
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
-
+3. Install dependencies:
+   ```bash
+   pip install google-adk
+   ```
 ## Usage
 
-Run an agent example:
+You need to move the file from the test_agent directory to the related directory. Then you can run an agent example:
 
 - **coding_agent**  
   ```bash
   cd ADK_AgentTesting
   adk web
+  (Choose the coding_agent at the top)
   ```
 
 - **multi_tool_agent**  
   ```bash
   cd ADK_AgentTesting
   adk web
+  (Choose the multi_tool_agent at the top)
   ```
 
-- **test_agent**  
-  ```bash
-  cd ADK_AgentTesting
-  adk web
-  ```
 
 ## Contributing
 
