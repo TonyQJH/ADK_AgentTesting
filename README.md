@@ -44,13 +44,19 @@ You need to move the file from the test_agent directory to the related directory
   (Choose the coding_agent at the top)
   ```
 
-- **multi_tool_agent**  
+- **Tutorial_agent_CN_EN**  
   ```bash
   cd ADK_AgentTesting
   adk web
-  (Choose the multi_tool_agent at the top)
+  (Choose the Tutorial_agent_CN_EN at the top)
   ```
 
+- **Simple_agent**  
+  ```bash
+  cd ADK_AgentTesting
+  adk web
+  (Choose the Simple_agent at the top)
+  ```
 
 ## Contributing
 
