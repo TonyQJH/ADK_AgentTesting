@@ -19,17 +19,12 @@ A collection of examples demonstrating how to build and test agents using the Go
 
 ## Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-org/ADK_AgentTesting.git
-   cd ADK_AgentTesting
-   ```
-2. (Optional) Create and activate a virtual environment:
+1. (Optional) Create and activate a virtual environment:
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
-3. Install dependencies:
+2. Install dependencies:
    ```bash
    pip install google-adk
    ```
