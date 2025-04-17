@@ -7,11 +7,17 @@ A collection of examples demonstrating how to build and test agents using the Go
 - **coding_agent/**  
   Example of a basic LLM-powered coding assistant.
 
-- **multi_tool_agent/**  
+- **Tutorial_agent_CN_EN/**  
   Example of an agent using multiple external tools.
 
 - **test_agent/**  
   Collection of scripts to validate and benchmark agent behaviors.
+
+- **Simple_agent/**  
+  Example of a simple agent.
+
+- **IMPORTANT.md**  
+  Important notes about the ADK for using Local LLMs.
 
 ## Prerequisites
 
